@@ -2,10 +2,10 @@
   <h1>Jesus Libreros</h1>
   <h3>Principal Solutions Architect | Technical Delivery Lead | GenAI Strategy</h3>
   <p>
-    Operating at the intersection of <b>Business Strategy</b> and <b>Advanced Engineering</b>.
+    Operating at the intersection of <b>Business Strategy</b>, <b>Data Intelligence</b>, and <b>Advanced Engineering</b>.
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/jesuslibreros/">LinkedIn</a> | <a href="mailto:jhlibreros@gmail.com">jhlibreros@gmail.com</a>
+    <a href="https://www.linkedin.com/in/j">LinkedIn</a> | <a href="mailto:jhlibreros@gmail.com">jhlibreros@gmail.com</a>
   </p>
 </div>
 
@@ -13,41 +13,36 @@
 
 ## Professional Summary
 
-I specialize in the full lifecycle ownership of complex systems—from **Pre-Sales** and value proposition definition to **Agile Delivery** and final deployment. My focus is on modernizing and orchestrating enterprise ecosystems—spanning **SharePoint, AWS, Google Cloud, and Azure**—to build scalable Multi-Cloud architectures and Generative AI solutions.
+I specialize in the full lifecycle ownership of complex systems—from **Pre-Sales** and value proposition definition to **Agile Delivery** and final deployment. My focus is on orchestrating enterprise ecosystems—spanning **SharePoint, Power Platform, AWS, Google Cloud, and Azure**—to build scalable Multi-Cloud architectures and Generative AI solutions that drive tangible business value.
 
-## Core Competencies
+## Strategic Pillars of Expertise
 
-### Migration & Modernization Engineering
-* **SharePoint Specialization:** Expert in executing complex inter-version migrations (SharePoint 2010/2013/2016 to Online) leveraging **Sharegate** and advanced **PowerShell** automation to ensure data integrity.
-* **Legacy Transformation:** Transforming On-Premises monoliths into agile Cloud microservices across AWS, Google Cloud, and Azure.
-* **Cloud Strategy:** Defining the "Move & Improve" strategy for large-scale enterprise data.
+To drive innovation at an enterprise scale, I focus my work on three core pillars:
 
-### Strategic Leadership & Pre-Sales
-* **Technical Proposal Leadership:** Leading RFPs and aligning IT roadmaps with business revenue goals.
-* **Executive Communication:** Translating complex AI/Cloud concepts for C-Level stakeholders to drive adoption and investment.
-* **Delivery Management:** Managing cross-functional teams and budgets for high-impact migration projects.
+### 1. Cloud Modernization & Intelligent Automation
+* **Legacy Transformation:** Expert in deconstructing on-premises monoliths and re-platforming them into cloud-native microservices on AWS, Azure & GCP.
+* **Complex Migrations:** Specialization in inter-version migrations (SharePoint 2010/2013/2016 to Online) leveraging **ShareGate** and advanced **PowerShell** automation to ensure data integrity and compliance.
+* **Workflow Orchestration:** Replacing legacy logic with robust **Power Automate** flows and Logic Apps to streamline enterprise operations and reduce technical debt.
 
-### Cloud & AI Architecture
-* **Generative AI Strategy:** Designing RAG patterns and autonomous Agents using AWS Bedrock and Vertex AI.
-* **Multi-Cloud Engineering:** Architecting secure, compliant environments across AWS, Google Cloud, and Azure.
-* **Legacy Modernization:** Transforming SharePoint On-Premises monoliths into agile Cloud microservices.
+### 2. Generative AI & Copilot Strategy
+* **Enterprise Copilots:** Extending **Microsoft Copilot** (M365 & Copilot Studio) to create custom conversational agents that securely integrate with internal business data.
+* **RAG Architectures:** Building "Retrieval-Augmented Generation" systems on **AWS Bedrock** and **Vertex AI** that allow enterprises to query private documents naturally.
+* **Data Intelligence:** Bridging the gap between unstructured data and strategic decision-making using **Power BI** for advanced analytics and visualization.
 
-### Technical Program Management
-* **Agile Orchestration:** directing end-to-end delivery using Agile/Scrum methodologies.
-* **Risk Mitigation:** Proactive risk management and resource allocation for mission-critical migrations.
+### 3. Technical Leadership & Delivery
+* **Customer Obsession (Pre-Sales):** Leading RFPs, managing client expectations, and translating complex technical architectures into clear ROI for C-Level executives.
+* **Agile Orchestration:** Managing cross-functional teams to deliver mission-critical migrations on time and within budget.
+* **Operational Excellence:** Implementing CI/CD pipelines and Infrastructure as Code (Terraform) to ensure reproducibility and scale.
 
 ## Technical Stack
 
-* **Cloud Infrastructure:** AWS (Lambda, S3), Google Cloud (Functions, BigQuery), Microsoft 365.
-* **Development & AI:** Python, LangChain, PowerShell (PnP), React.js.
-* **DevOps & Automation:** GitHub Actions, Terraform, CI/CD pipelines.
+* **Cloud & Platforms:** AWS, Google Cloud Platform (GCP), Microsoft Azure, Power Platform.
+* **AI & Data:** Microsoft Copilot Studio, AWS Bedrock, Vertex AI, Power BI.
+* **Development:** Python, TypeScript, PowerShell (PnP), React.js.
+* **Migration Tools:** ShareGate, SPMT, Custom PowerShell Scripting.
 
-## Current Focus
-* Developing AI Agents to automate enterprise project management reporting.
-* Bridging the gap between legacy Enterprise Data repositories and Large Language Models (LLMs).
-¿Por qué esta versión es mejor para tu objetivo?
-Formato Limpio: Al quitar los cohetes y portafolios (🚀, 💼), el texto respira y se ve como un documento oficial.
-
-Encabezado HTML: El bloque <div align="center"> centra tu nombre y cargo, dándole jerarquía visual sin necesidad de adornos.
-
-Lenguaje Corporativo: Cambié frases como "I don't just design systems" (que suena a defensiva) por "I specialize in the full lifecycle ownership" (que suena a autoridad).
+## Current Focus & Growth Areas
+* **Intelligent Process Automation:** Architecting end-to-end workflows that fuse **Power Automate** with **AI Agents** to autonomously execute complex business operations and eliminate manual bottlenecks.
+* **Agentic Systems:** Moving beyond passive chatbots to building multi-agent ecosystems capable of reasoning and taking action across cloud services.
+* **Cloud FinOps:** Optimizing cloud spend and resource allocation for large-scale data migrations.
+* **Enterprise Security:** Implementing Zero Trust architectures and governance for Generative AI applications.
