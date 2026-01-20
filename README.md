@@ -13,7 +13,7 @@
 
 ## Professional Summary
 
-I specialize in the full lifecycle ownership of complex systems—from **Pre-Sales** and value proposition definition to **Agile Delivery** and final deployment. My focus is on modernizing legacy enterprise ecosystems (SharePoint) into scalable Multi-Cloud architectures and Generative AI solutions.
+I specialize in the full lifecycle ownership of complex systems—from **Pre-Sales** and value proposition definition to **Agile Delivery** and final deployment. My focus is on modernizing and orchestrating enterprise ecosystems—spanning **SharePoint, AWS, Google Cloud, and Azure**—to build scalable Multi-Cloud architectures and Generative AI solutions.
 
 ## Core Competencies
 
