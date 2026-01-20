@@ -5,7 +5,7 @@
     Operating at the intersection of <b>Business Strategy</b> and <b>Advanced Engineering</b>.
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/j">LinkedIn</a> | <a href="mailto:jhlibreros@gmail.com">jhlibreros@gmail.com</a>
+    <a href="https://www.linkedin.com/in/jesuslibreros/">LinkedIn</a> | <a href="mailto:jhlibreros@gmail.com">jhlibreros@gmail.com</a>
   </p>
 </div>
 
