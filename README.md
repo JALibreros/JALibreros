@@ -1,31 +1,48 @@
-### Hi there, I'm Jesus Libreros 👋
-**Principal Solutions Architect | Technical Delivery Lead | GenAI Strategy**
+<div align="center">
+  <h1>Jesus Libreros</h1>
+  <h3>Principal Solutions Architect | Technical Delivery Lead | GenAI Strategy</h3>
+  <p>
+    Operating at the intersection of <b>Business Strategy</b> and <b>Advanced Engineering</b>.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/j">LinkedIn</a> | <a href="mailto:jhlibreros@gmail.com">jhlibreros@gmail.com</a>
+  </p>
+</div>
 
-I operate at the intersection of **Business Strategy** and **Advanced Engineering**. I don't just design systems; I own the full lifecycle—from **Pre-Sales** and value proposition to **Agile Delivery** and final deployment. I specialize in modernizing legacy ecosystems (SharePoint) into Multi-Cloud & Generative AI powerhouses.
+<hr>
 
-🚀 **The 360° Value Proposition:**
+## Professional Summary
 
-* 💼 **Strategic Leadership & Pre-Sales:**
-    * Leading technical proposals (RFPs) and aligning IT roadmap with business revenue goals.
-    * Translating complex AI/Cloud concepts for C-Level stakeholders to drive adoption.
-    * Managing cross-functional teams and budgets for high-impact migrations.
+I specialize in the full lifecycle ownership of complex systems—from **Pre-Sales** and value proposition definition to **Agile Delivery** and final deployment. My focus is on modernizing legacy enterprise ecosystems (SharePoint) into scalable Multi-Cloud architectures and Generative AI solutions.
 
-* 🏗️ **Cloud & AI Architecture:**
-    * **Generative AI:** Designing **RAG** patterns and **Agents** on AWS Bedrock & Vertex AI.
-    * **Multi-Cloud:** Architecting secure environments on AWS, Google Cloud, and Azure.
-    * **Modernization:** Transforming SharePoint On-Premises monoliths into agile Cloud microservices.
+## Core Competencies
 
-* 📅 **Technical Program Management:**
-    * Orchestrating end-to-end delivery using Agile/Scrum methodologies.
-    * Risk management and resource allocation for complex migration projects.
+### Strategic Leadership & Pre-Sales
+* **Technical Proposal Leadership:** Leading RFPs and aligning IT roadmaps with business revenue goals.
+* **Executive Communication:** Translating complex AI/Cloud concepts for C-Level stakeholders to drive adoption and investment.
+* **Delivery Management:** Managing cross-functional teams and budgets for high-impact migration projects.
 
-🛠 **Tech Stack:**
-* **Cloud:** AWS (Lambda, S3), Google Cloud (Functions, BigQuery), Microsoft 365.
-* **Dev & AI:** Python, LangChain, PowerShell (PnP), React.js.
-* **Ops:** GitHub Actions, Terraform, CI/CD.
+### Cloud & AI Architecture
+* **Generative AI Strategy:** Designing RAG patterns and autonomous Agents using AWS Bedrock and Vertex AI.
+* **Multi-Cloud Engineering:** Architecting secure, compliant environments across AWS, Google Cloud, and Azure.
+* **Legacy Modernization:** Transforming SharePoint On-Premises monoliths into agile Cloud microservices.
 
-🌱 **Current Focus:**
-* Building "AI Agents" that automate project management reporting.
-* Bridging the gap between legacy Enterprise Data and LLMs.
+### Technical Program Management
+* **Agile Orchestration:** directing end-to-end delivery using Agile/Scrum methodologies.
+* **Risk Mitigation:** Proactive risk management and resource allocation for mission-critical migrations.
 
-[LinkedIn](https://www.linkedin.com/in/jesuslibreros) | [jhlibreros@gmail.com](mailto:jhlibreros@gmail.com)
+## Technical Stack
+
+* **Cloud Infrastructure:** AWS (Lambda, S3), Google Cloud (Functions, BigQuery), Microsoft 365.
+* **Development & AI:** Python, LangChain, PowerShell (PnP), React.js.
+* **DevOps & Automation:** GitHub Actions, Terraform, CI/CD pipelines.
+
+## Current Focus
+* Developing AI Agents to automate enterprise project management reporting.
+* Bridging the gap between legacy Enterprise Data repositories and Large Language Models (LLMs).
+¿Por qué esta versión es mejor para tu objetivo?
+Formato Limpio: Al quitar los cohetes y portafolios (🚀, 💼), el texto respira y se ve como un documento oficial.
+
+Encabezado HTML: El bloque <div align="center"> centra tu nombre y cargo, dándole jerarquía visual sin necesidad de adornos.
+
+Lenguaje Corporativo: Cambié frases como "I don't just design systems" (que suena a defensiva) por "I specialize in the full lifecycle ownership" (que suena a autoridad).
