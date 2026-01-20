@@ -17,6 +17,11 @@ I specialize in the full lifecycle ownership of complex systems—from **Pre-Sal
 
 ## Core Competencies
 
+### Migration & Modernization Engineering
+* **SharePoint Specialization:** Expert in executing complex inter-version migrations (SharePoint 2010/2013/2016 to Online) leveraging **Sharegate** and advanced **PowerShell** automation to ensure data integrity.
+* **Legacy Transformation:** Transforming On-Premises monoliths into agile Cloud microservices across AWS, Google Cloud, and Azure.
+* **Cloud Strategy:** Defining the "Move & Improve" strategy for large-scale enterprise data.
+
 ### Strategic Leadership & Pre-Sales
 * **Technical Proposal Leadership:** Leading RFPs and aligning IT roadmaps with business revenue goals.
 * **Executive Communication:** Translating complex AI/Cloud concepts for C-Level stakeholders to drive adoption and investment.
